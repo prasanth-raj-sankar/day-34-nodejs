@@ -1,0 +1,19 @@
+{
+  "name": "day-34-nodejs",
+  "version": "1.0.0",
+  "description": "api task",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  }
+}
